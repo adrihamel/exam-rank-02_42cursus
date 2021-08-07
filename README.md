@@ -2,6 +2,6 @@
 
 Actual Status : finished
 
-Result : 100
+Result : ![aguerrer's 42Project Score](https://badge42.herokuapp.com/api/project/aguerrer/ft_printf) 
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
